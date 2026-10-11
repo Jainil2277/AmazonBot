@@ -1,0 +1,5 @@
+# Ignore environment variables and credentials
+.idea/
+.env
+*.xml
+.env
